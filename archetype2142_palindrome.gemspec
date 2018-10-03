@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Palindrome detector}
   spec.description   = %q{Creating the first gem with bundler}
-  spec.homepage      = "http://github.com/archetype2142"
+  spec.homepage      = "http://github.com/archetype2142/palindrome_gem"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

@@ -32,7 +32,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/archetype2142_palindrome.
+Bug reports and pull requests are welcome on GitHub at https://github.com/archetype2142/palindrome_gem
 
 ## License
 
