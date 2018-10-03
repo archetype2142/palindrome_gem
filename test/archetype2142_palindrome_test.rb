@@ -26,7 +26,7 @@ class Archetype2142PalindromeTest < Minitest::Test
   end
 
   def test_mixed_palindrome
-  	assert !"asd 44 dsa".palindrome?
+  	assert "asd 44 dsa".palindrome?
   end
 
   def non_palindrome_integer_test
